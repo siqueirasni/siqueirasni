@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siqueirasni
 - 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Python, SQL n' Google Cloud
+- 🌱 I’m currently learning Python, SQL n' Google Cloud Plataform
 - ⚡ Fun fact I am an Otaku
 
 
